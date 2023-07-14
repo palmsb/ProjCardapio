@@ -1,0 +1,48 @@
+
+body{
+   background-color: rgb(254, 245, 202);
+
+}
+
+.div1cs{
+   width: 100%;
+   margin: 0;
+   justify-content: center;
+   align-items: center;
+   text-align: center;
+   margin: 5;
+   color: rgb(67, 66, 63);
+}
+.div2cs{
+   font-family:'Birthstone', cursive;
+   border-top: 5px rgb(189, 134, 65) solid;
+   border-bottom: 5px rgb(189, 134, 65) solid ;
+   justify-content: center;
+   text-align:center
+}
+.div3cs{
+   text-align: center;
+
+}
+h1{
+   margin-bottom: 0%;
+   font-family:'Birthstone', cursive;
+   font-size:50px;
+}
+h2{
+   margin-top: 5px;
+   margin-bottom: 5px;
+   font-size: 30px;
+   font-weight: 100;
+
+}
+h3{
+   font-size: 20px;
+   margin-bottom: 0%;
+
+}
+p{
+   margin-top: 0%;
+   font-size: 15px;
+   font-family: 'Satisfy', cursive;
+}
