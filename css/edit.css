@@ -1,7 +1,7 @@
 
 body{
    background-color: rgb(254, 245, 202);
-
+   border: 5px rgb(189, 134, 65) solid;
 }
 
 .div1cs{
@@ -17,6 +17,7 @@ body{
    font-family:'Birthstone', cursive;
    border-top: 5px rgb(189, 134, 65) solid;
    border-bottom: 5px rgb(189, 134, 65) solid ;
+   background: linear-gradient(90deg, rgb(238, 229, 187) 10%, rgb(207, 147, 73) 100%); 
    justify-content: center;
    text-align:center
 }
@@ -27,13 +28,14 @@ body{
 h1{
    margin-bottom: 0%;
    font-family:'Birthstone', cursive;
-   font-size:50px;
+   font-size:70px;
 }
 h2{
    margin-top: 5px;
    margin-bottom: 5px;
-   font-size: 30px;
+   font-size: 40px;
    font-weight: 100;
+   padding: 10px 0px;
 
 }
 h3{
@@ -43,6 +45,13 @@ h3{
 }
 p{
    margin-top: 0%;
-   font-size: 15px;
+   margin-bottom: 30px;
+   font-size: 17px;
    font-family: 'Satisfy', cursive;
+}
+
+.imag{
+   border-radius: 50px;
+   border: 7px rgb(189, 134, 65) solid;
+   border-style: double;
 }
